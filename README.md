@@ -1,5 +1,5 @@
-# Oi, meu nome e Danilo!!! 
-##  Prazer em conhecer, este e meu Profile!
+# hi, my name is Danilo!!! 
+##  Nice to meet you, this is my profile!
 
 <body>
   <div>
@@ -11,7 +11,7 @@
 </li>
 
 <li>
-<b>Hobbys:</b> studyng web development, develop code, academy, jiu-jitsu, books
+<b>Hobbys:</b> studyng web development, develop code, academy
 </li>
 
   </div>
