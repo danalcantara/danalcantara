@@ -7,16 +7,13 @@
  <b>Name:</b> Danilo de Santana Alcantara 
 </li>
 <li>
-<b>Loves:</b>books, code, books again
+<b>Loves:</b>books, code
 </li>
 
 <li>
 <b>Hobbys:</b> studyng web development, develop code, academy, jiu-jitsu, books
 </li>
-<li>
- <b> College</b>  Descomplica
-</li>
-    <b>>>Stoicism is life<<<</b>
+
   </div>
       <h3 align="left">Connect with me:</h3>
 <p align="left">
