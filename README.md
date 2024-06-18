@@ -7,11 +7,11 @@
  <b>Name:</b> Danilo de Santana Alcantara 
 </li>
 <li>
-<b>Loves:</b>books, code
+<b>Loves:</b> Books, Code
 </li>
 
 <li>
-<b>Hobbys:</b> studyng web development, develop code, academy
+<b>Hobbys:</b> Studyng web development, Develop code, academy
 </li>
 
   </div>
