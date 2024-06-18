@@ -3,18 +3,13 @@
 
 <body>
   <div>
-<!-- <a href="https://discord.com/users/856372186843709480" > -->
-   <img src="https://lanyard.cnrad.dev/api/856372186843709480?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
-  
 <li>
  <b>Name:</b> Danilo de Santana Alcantara 
 </li>
 <li>
 <b>Loves:</b>books, code, books again
 </li>
-<li>
-<b>Gender:</b> He, him, He-Man🤨
-</li>
+
 <li>
 <b>Hobbys:</b> studyng web development, develop code, academy, jiu-jitsu, books
 </li>
