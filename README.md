@@ -1,5 +1,5 @@
-# hi, my name is Danilo!!! 
-##  Nice to meet you, this is my profile!
+# Hi, My name is Danilo!!! 
+##  Nice to meet you, This is my profile!
 
 <body>
   <div>
