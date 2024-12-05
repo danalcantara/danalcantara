@@ -15,7 +15,9 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/danilo-alcantara-096094210/" target="_blank">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+    
   </a>
+  <p>Linkedin: <a>https://www.linkedin.com/in/danilo-alcantara-096094210/</a></p>
 </p>
 
 ---
@@ -27,7 +29,7 @@
 
 ---
 
-<img src="https://lanyard.cnrad.dev/api/856372186843709480?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
+
 
 
 ### 🚀 Tech Stack:
