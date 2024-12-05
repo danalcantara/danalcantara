@@ -27,7 +27,7 @@
 
 ---
 
-![Dark Water GIF](https://giphy.com/arrowvideo/dark-water) 
+<img src="https://lanyard.cnrad.dev/api/856372186843709480?idleMessage=Cause,%20baby,%20tonight%20we're%20beautiful%20now&animated=true&theme=dark&borderRadius=20&hideBadges=true&hideDiscrim=true&bg=212121"  />
 
 
 ### 🚀 Tech Stack:
