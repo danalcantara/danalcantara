@@ -26,7 +26,7 @@
 - 💪 Striving for growth, both **mentally** and **physically**.
 
 ---
-<div align="center"> <img src="https://media.giphy.com/media/3o6ZsYm5Qv5VzG79tC/giphy.gif" alt="Coding GIF" width="500" /> </div> ```
+<div align="center"> <img src="https://giphy.com/gifs/animation-artists-on-tumblr-red-Z9nyDUIvUPNKg" alt="Coding GIF" width="500" /> </div> ```
 
 ### 🚀 Tech Stack:
 ```bash
