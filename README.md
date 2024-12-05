@@ -1,22 +1,36 @@
-# Hi, My name is Danilo!!! 
-##  Nice to meet you, This is my profile!
+# Hi, My name is Danilo! 👋
 
-<body>
-  <div>
-<li>
- <b>Name:</b> Danilo de Santana Alcantara 
-</li>
-<li>
-<b>Loves:</b> Books, Code
-</li>
+## Nice to meet you! Welcome to my profile! 🚀
 
-<li>
-<b>Hobbys:</b> Studyng web development, Develop code, academy
-</li>
+---
 
-  </div>
-      <h3 align="left">Connect with me:</h3>
+### 🌟 About Me:
+- **💻 Name:** Danilo de Santana Alcantara  
+- **📚 Loves:** Books, Coding  
+- **🎯 Hobbies:** Studying web development, Developing creative projects, Gym enthusiast 🏋️‍♂️  
+
+---
+
+### 📬 Connect with Me:
 <p align="left">
-<a href="https://www.linkedin.com/in/danilo-alcantara-096094210/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/danilo-alcantara-096094210/" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v4/icons/linkedin.svg" alt="LinkedIn" height="30" width="40" />
+  </a>
 </p>
-</body>
+
+---
+
+### 🌈 Fun Facts:
+- 🔍 Always exploring the latest trends in **Web Development**.
+- 📖 Avid reader, constantly inspired by **tech and innovation**.
+- 💪 Striving for growth, both **mentally** and **physically**.
+
+---
+<div align="center"> <img src="https://media.giphy.com/media/3o6ZsYm5Qv5VzG79tC/giphy.gif" alt="Coding GIF" width="500" /> </div> ```
+
+### 🚀 Tech Stack:
+```bash
+Frontend: React.js, HTML5, CSS3, JavaScript (ES6+)
+Backend: Node.js, Express.js
+Tools: Git, GitHub, Postman
+
