@@ -104,7 +104,7 @@
 
 ###
 
-<div align="center">
+
 ![Bom dia](https://spotify-recently-played-readme.vercel.app/api?user=31x3bec7g23u5n27czgg5cj44mfm)
-</div>
+
 ###
