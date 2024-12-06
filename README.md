@@ -105,11 +105,6 @@
 ###
 
 <div align="center">
-  <a href="https://open.spotify.com/user/Danilo Alcantara">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=Danilo%20Alcantara&count=10&unique=false" alt="Spotify recently played"  />
-  </a>
-</div>
-
 ![Bom dia](https://spotify-recently-played-readme.vercel.app/api?user=31x3bec7g23u5n27czgg5cj44mfm)
-
+</div>
 ###
